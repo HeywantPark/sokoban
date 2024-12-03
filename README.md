@@ -44,6 +44,7 @@
    - 캐릭터와 박스의 이동을 제한하는 요소입니다.
 
 ---
-![Uploading 스크린샷 2024-12-03 오후 5.38.46.png…]()
+
+<img width="1465" alt="sokoban" src="https://github.com/user-attachments/assets/4f811355-6b69-4188-a485-3b1d537fd196">
 
 
